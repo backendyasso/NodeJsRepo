@@ -1,14 +1,10 @@
-# NodeJs Graduation Project
+# Node.js Graduation Project
 
-📄 [Click here to view the full project documentation (PDF)](Elysium%20App%20Doc_1.pdf)
-
-This project contains the source code and documentation for a Node.js-based graduation project.
+[📄 View Full Project Documentation](Elysium%20App%20Doc_1.pdf)
 
 ## Project Structure
+- `/Nodejs` - Contains all source code
+- `Elysium App Doc_1.pdf` - Project documentation
 
-- /Nodejs — contains the source code
-- Elysium App Doc_1.pdf — full documentation
-
----
-
-> Created by Yasmine Abass
+## How to View Documentation
+Click the link above or directly on the PDF file in the repository.
